@@ -40,17 +40,39 @@ We propose a novel contrastive deep graph clustering method dubbed Hard Sample A
 
 ### Requirements
 
+The proposed HSAN is implemented with python 3.7 on a NVIDIA 3090 GPU. 
 
+Python package information is summarized in **requirements.txt**:
+
+- torch==1.7.1
+- tqdm==4.59.0
+- numpy==1.19.2
+- munkres==1.1.4
+- scikit_learn==1.2.0
 
 
 
 ### Quick Start
 
-The code will be released soon. 
+- Step1: use the **cora.zip** file or download other datasets from  [Awesome Deep Graph Clustering/Benchmark Datasets](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering#benchmark-datasets) 
+
+- Step2: unzip the dataset into the **./dataset** folder
+
+- Step3: run
+
+  ```
+  python train.py
+  ```
+
+  the clustering results will be recorded in the **./results.csv** file
 
 
 
-### Clustering Result
+### Parameter settings
+
+
+
+### Clustering Results
 
 <div  align="center">    
     <img src="./assets/HSAN_result.png" width=100%/>
