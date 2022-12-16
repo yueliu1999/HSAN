@@ -111,6 +111,7 @@ If you find this project useful for your research, please cite your paper with t
   booktitle={Proc. of AAAI},
   year={2023}
 }
+
 @article{Deep_graph_clustering_survey,
  author = {Liu, Yue and Xia, Jun and Zhou, Sihang and Wang, Siwei and Guo, Xifeng and Yang, Xihong and Liang, Ke and Tu, Wenxuan and Li, Z. Stan and Liu, Xinwang},
  journal = {arXiv preprint arXiv:2211.12875},
