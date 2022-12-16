@@ -100,11 +100,23 @@ Python package information is summarized in **requirements.txt**:
 <div  align="center">    
     Figure 2: 2D <i>t</i>-SNE visualization of seven methods on two datasets.
 </div>
-
 ### Citation
 
-```
+If you find this project useful for your research, please cite your paper with the following BibTeX entry.
 
+```
+@inproceedings{HSAN,
+  title={Hard Sample Aware Network for Contrastive Deep Graph Clustering},
+  author={Liu, Yue and Yang, Xihong and Zhou, Sihang and Liu, Xinwang and Wang, Zhen and Liang, Ke and Tu, Wenxuan and Li, Liang and Duan, Jingcan, and Chen, Cancan},
+  booktitle={Proc. of AAAI},
+  year={2023}
+}
+@article{Deep_graph_clustering_survey,
+ author = {Liu, Yue and Xia, Jun and Zhou, Sihang and Wang, Siwei and Guo, Xifeng and Yang, Xihong and Liang, Ke and Tu, Wenxuan and Li, Z. Stan and Liu, Xinwang},
+ journal = {arXiv preprint arXiv:2211.12875},
+ title = {A Survey of Deep Graph Clustering: Taxonomy, Challenge, and Application},
+ year = {2022}
+}
 ```
 
 
