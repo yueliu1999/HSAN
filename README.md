@@ -54,7 +54,7 @@ Python package information is summarized in **requirements.txt**:
 
 ### Quick Start
 
-- Step1: use the **cora.zip** file or download other datasets from  [Awesome Deep Graph Clustering/Benchmark Datasets](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering#benchmark-datasets) 
+- Step1: use the **cora.zip** file or download other datasets from  [Awesome Deep Graph Clustering/Benchmark Datasets](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering#datasets-details) 
 
 - Step2: unzip the dataset into the **./dataset** folder
 
@@ -70,6 +70,14 @@ Python package information is summarized in **requirements.txt**:
 
 ### Parameter settings
 
+<div  align="center">    
+    <img src="./assets/HSAN_parameter.png" width=70%/>
+</div>
+
+<div  align="center">    
+    Table 1: Parameter settings of six datasets.
+</div>
+
 
 
 ### Clustering Results
@@ -77,10 +85,10 @@ Python package information is summarized in **requirements.txt**:
 <div  align="center">    
     <img src="./assets/HSAN_result.png" width=100%/>
 </div>
-
 <div  align="center">    
-    Table 1: Clustering results of our proposed HSAN and thirteen baselines on six datasets.
+    Table 2: Clustering results of our proposed HSAN and thirteen baselines on six datasets.
 </div>
+
 
 
 
