@@ -100,6 +100,12 @@ Python package information is summarized in **requirements.txt**:
 <div  align="center">    
     Figure 2: 2D <i>t</i>-SNE visualization of seven methods on two datasets.
 </div>
+
+
+
+
+
+
 ### Citation
 
 If you find this project useful for your research, please cite your paper with the following BibTeX entry.
